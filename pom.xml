@@ -3,19 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.divudi</groupId>
-<<<<<<< HEAD
-    <artifactId>chimsab</artifactId>
-    <version>0.1</version>
-    <packaging>war</packaging>
-
-    <name>chimsab</name>
-=======
     <artifactId>ucfmhc</artifactId>
     <version>0.1</version>
     <packaging>war</packaging>
 
     <name>UCFM HC</name>
->>>>>>> db5836c746d8f20b6c821d79ac008f1e7a283ec4
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
