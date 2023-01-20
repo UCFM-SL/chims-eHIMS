@@ -1,7 +1,9 @@
 # Cloud HIMS
+=======
 
 An an open source Health information management system based on cloud HIMS (https://github.com/lk-gov-health-hiu/chims) that allows health care workers to manage patient data effectively.
 
+<<<<<<< HEAD
 Can I use it? (What are the prerequisites?)
 The prerequisites consist of java (JDK) mysql, payara server, ....
 ?Operating system - tested on Windows and Linux
