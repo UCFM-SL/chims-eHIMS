@@ -1,6 +1,9 @@
 /build/
 /dist/
 /target/
+./pom.xml
+./src/main/resources/META-INF/persistence.xml
+./src/main/webapp/WEB-INF/glassfish-web.xml
 /src/main/webapp/WEB-INF/glassfish-resources.xml
 glassfish-resources.xml
 src/main/resources/rest/app.gif
